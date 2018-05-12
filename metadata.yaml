@@ -1,0 +1,45 @@
+_repo: Dave-Porter-on-Cave-Island--Or-A-Schoolboy-s-Mysterious-Mission_36377
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boehm, H. Richard
+    alias: Boehm, Henry Richard
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '33471'
+    url: http://www.gutenberg.org/2009/agents/33471
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Burglary -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Thieves -- Juvenile fiction'
+title: Dave Porter on Cave Island; Or, A Schoolboy's Mysterious Mission
+url: http://www.gutenberg.org/ebooks/36377
